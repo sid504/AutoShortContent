@@ -1,0 +1,5 @@
+{
+  "name": "ViralTube AI Agent",
+  "description": "An autonomous agent that researches viral topics, generates video scripts, voiceovers, thumbnails, and video previews for YouTube.",
+  "requestFramePermissions": []
+}
